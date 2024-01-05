@@ -22,4 +22,3 @@ public class App
     System.out.println("Sum is: " + result);
   }
 }
-}
